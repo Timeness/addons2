@@ -1,6 +1,6 @@
 {
-  "name": "Web App Manifest Demo",
-  "short_name": "ManifestDemo",
+  "name": "cWeb App",
+  "short_name": "cWeb",
   "theme_color": "red",
   "background_color": "silver",
   "start_url": "./",
